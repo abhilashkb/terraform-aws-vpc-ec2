@@ -1,10 +1,13 @@
-# terraform-practice
+# Create Ec2 innstance on custom VPC using Terrafom
+
+##Here are the steps to implement ec2 instance on AWS using terraform code
 
 1.create a vpc
 
 2.Create a internet gateway
 
 3.create custom Route table
+
 4.create a subnet
 
 5.associate subnet with route table
