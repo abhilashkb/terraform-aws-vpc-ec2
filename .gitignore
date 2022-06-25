@@ -1,0 +1,6 @@
+.terraform/
+variables.tf
+terraform.tfvars
+webserver.pem
+cloudtls.pem
+.vscode
